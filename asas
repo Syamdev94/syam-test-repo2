@@ -1,0 +1,49 @@
+[33mcommit e2ba0d59189e7e7c9b05a3d09f88d9f98565f5b4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 8494a58 71036c6
+Author: Syamsu <dev.sem94@gmail.com>
+Date:   Mon Dec 4 09:09:36 2023 +0700
+
+    merge branch 'dev'
+
+[33mcommit 8494a5823aa13b2c8fb9abc086990cb4f52297aa[m
+Author: Syamsu <dev.sem94@gmail.com>
+Date:   Mon Dec 4 09:05:07 2023 +0700
+
+    mengubah data bahasiswa.html
+
+[33mcommit 71036c607e836201c9ea0da37baf0856cb8f42f8[m
+Author: Syamsu <dev.sem94@gmail.com>
+Date:   Mon Dec 4 09:00:41 2023 +0700
+
+    mengganti nim erik dan menambah paragraf
+
+[33mcommit 46ed617b1ad186d7d6a41dba2680b970698628c0[m
+Merge: 5e58c82 0be5023
+Author: Syamsu <dev.sem94@gmail.com>
+Date:   Sun Dec 3 17:07:33 2023 +0700
+
+    Merge branch 'staft'
+
+[33mcommit 0be50235a6de276eabeeb744c30b7287812ac3be[m
+Author: Syamsu <dev.sem94@gmail.com>
+Date:   Sun Dec 3 16:57:07 2023 +0700
+
+    menambahakan fitur staft
+
+[33mcommit 5e58c823daa9f9ee18dbe5ee408fc4d25fcf7ee9[m
+Author: Syamsu <dev.sem94@gmail.com>
+Date:   Sun Dec 3 16:49:33 2023 +0700
+
+    menambahkan file dosen
+
+[33mcommit c4a11af54c079d5cfc4bb6e429a1be92a87fe1ed[m
+Author: Syamsu <dev.sem94@gmail.com>
+Date:   Sun Dec 3 16:34:27 2023 +0700
+
+    menambakkan nim pada mahasiswa
+
+[33mcommit d07a79f6845c199b422d3c4d5bfdaa20b8adc4b8[m
+Author: Syamsu <dev.sem94@gmail.com>
+Date:   Sun Dec 3 16:32:26 2023 +0700
+
+    menambahakan file mahasiswa
